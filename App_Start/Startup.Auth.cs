@@ -46,23 +46,23 @@ namespace Shoestore
             app.UseTwoFactorRememberBrowserCookie(DefaultAuthenticationTypes.TwoFactorRememberBrowserCookie);
 
             // Uncomment the following lines to enable logging in with third party login providers
-            //app.UseMicrosoftAccountAuthentication(
-            //    clientId: "",
-            //    clientSecret: "");
+           app.UseMicrosoftAccountAuthentication(
+                clientId: "622c8fb0-40f9-4aee-94c7-bb3ef7df54f2",
+                clientSecret: "xejeayTLKP24-|@(kUPR752");
 
             //app.UseTwitterAuthentication(
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+             appId: "131010544260318",
+             appSecret: "4df8fc3d65f57eec2d683f94746ffc47");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "shoe-store-189100 ",
+                ClientSecret = "985909743164 "
+            });
         }
     }
 }
