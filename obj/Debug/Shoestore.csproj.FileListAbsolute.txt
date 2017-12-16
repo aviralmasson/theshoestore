@@ -117,3 +117,7 @@ C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\obj\Debug\Shoestore.csprojRes
 C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\obj\Debug\Shoestore.csproj.CoreCompileInputs.cache
 C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\obj\Debug\Shoestore.dll
 C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\obj\Debug\Shoestore.pdb
+C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Aviral Masson\Desktop\Shoestore\Shoestore\bin\System.Diagnostics.DiagnosticSource.xml
