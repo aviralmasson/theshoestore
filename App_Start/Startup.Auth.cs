@@ -60,8 +60,8 @@ namespace Shoestore
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
-                ClientId = "shoe-store-189100 ",
-                ClientSecret = "985909743164 "
+                ClientId = "985909743164-1rqem0eh94p30s5irb32trdva6rreqcn.apps.googleusercontent.com ",
+                ClientSecret = "6h8GeZshUeB0wxYxMiwzLtRi"
             });
         }
     }

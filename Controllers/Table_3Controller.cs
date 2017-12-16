@@ -10,6 +10,7 @@ using Shoestore.Models;
 
 namespace Shoestore.Controllers
 {
+[Authorize]
     public class Table_3Controller : Controller
     {
         private Model1 db = new Model1();
